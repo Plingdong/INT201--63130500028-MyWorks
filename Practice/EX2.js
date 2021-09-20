@@ -69,3 +69,5 @@ console.log(checkPayment(10, 10)); // เรียกใช้ฟังก์ช
 console.log(checkPayment(2450, 1900)); // เรียกใช้ฟังก์ชั่น checkPayment
 console.log(checkPayment(1000, 722)); // เรียกใช้ฟังก์ชั่น checkPayment
 console.log(checkPayment(5000, 4899)); // เรียกใช้ฟังก์ชั่น checkPayment
+
+//Test
